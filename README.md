@@ -5,6 +5,11 @@ Orignal Gemfire example provided by Spring is not working and has build issues ,
  * import as gradle STS project in STS 
  * Build command during import 
  
+ ============================
+
+
+ https://github.com/vaquarkhan/vaquarkhan/wiki/GemFire--Geode:-Pivotal-GemFire-is-now-open-source
+ 
  
 ============================
 
@@ -61,17 +66,4 @@ used to start a cache server with a custom spring configuration. Simply point to
 This is useful for testing or experimentation with client server scenarios. 
 If your application requires additional jars to be deployed to the server, you can create a lib directory under the project root (e.g., spring-gemfire-examples) and drop them in there. The gradle build is already configured to look there. Note, 
 this is a 'quick and dirty' way to do this. In a shared integration or production environment, you should use The GemFire shell program, gfsh.
-																																									
-
-
-
-
-
-	
-  
-
-
-
-
-
-# spring-gemfire-examples-working
+																																		
