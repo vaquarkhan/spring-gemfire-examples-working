@@ -1,8 +1,11 @@
 Spring Data GemFire Examples
 ============================
+
 Orignal Gemfire example provided by Spring is not working and has build issues ,folowing is my version with error fixed.
  * import as gradle STS project in STS 
  * Build command during import 
+ 
+ 
 ============================
 
 This project provides a number of examples to get you started using Spring Data GemFire. These examples are designed to work with [Spring Data GemFire] (http://projects.spring.io/spring-data-gemfire) 1.2 or higher and are organized into the following sub projects:
